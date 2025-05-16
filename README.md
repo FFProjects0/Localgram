@@ -33,4 +33,4 @@ First, download the [template](https://github.com/FFProjects0/Localgram/tree/mai
 | Files/Directories | Example | Disclaimer
 | - | - | - |
 | ./Slideshows | `./Slideshows/0001/1.png, 2.png, 3.png/song.mp3` - used with slideshows.txt | `0001 (videos.txt)` `0001 (slideshows.txt)` ARE NOT THE SAME THING!!
-| ./Videos | `./Slideshows/0001.mp4` - used with videos.txt | `0001 (videos.txt)` `0001 (slideshows.txt)` ARE NOT THE SAME THING!!
+| ./Videos | `./Videos/0001.mp4` - used with videos.txt | `0001 (videos.txt)` `0001 (slideshows.txt)` ARE NOT THE SAME THING!!
