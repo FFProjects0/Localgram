@@ -14,7 +14,7 @@
 > [!CAUTION]
 > This program often crashes when trying to close a video/slideshow. The cause is still unknown to me so use at your own risk.
 
-# $$\color{lightgreen}Basic \space Usage \space Instructions$$
+# $${\color{lightgreen}Basic \space Usage \space Instructions}$$
 First, download the [template](https://github.com/FFProjects0/Localgram/tree/main/Template), then put the program in the root of that folder, play around and see what happens, you'll eventually know what to do, here's just a brief ovverview.
 | File | Example |
 | - | - |
